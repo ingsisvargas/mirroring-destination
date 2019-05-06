@@ -1,3 +1,5 @@
 # mirroring-conceptual-test
 
-Agragamos esto para el cambio transitorio.
+Agregamos esto para el cambio transitorio.
+
+Corregí la linea anterior y puse esta nueva.
